@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -28,4 +29,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
