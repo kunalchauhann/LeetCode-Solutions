@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
