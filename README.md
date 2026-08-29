@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2119-a-number-after-a-double-reversal](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
