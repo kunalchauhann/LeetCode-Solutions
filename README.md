@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
