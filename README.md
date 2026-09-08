@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2090-k-radius-subarray-averages](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [2090-k-radius-subarray-averages](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/2090-k-radius-subarray-averages/) | Medium |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
