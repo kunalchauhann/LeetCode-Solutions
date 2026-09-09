@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0058-length-of-last-word](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0389-find-the-difference](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
