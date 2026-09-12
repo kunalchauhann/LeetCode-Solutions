@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0162-find-peak-element](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0204-count-primes](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0392-is-subsequence](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 ## String Matching
@@ -193,4 +195,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
