@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1652-defuse-the-bomb](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/2090-k-radius-subarray-averages/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
