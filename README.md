@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1920-build-array-from-permutation](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/2090-k-radius-subarray-averages/) | Medium |
+| [3005-count-elements-with-maximum-frequency](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Counting
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
