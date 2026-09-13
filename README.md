@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/2090-k-radius-subarray-averages/) | Medium |
