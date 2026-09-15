@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0844-backspace-string-compare](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0844-backspace-string-compare](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 ## Prefix Sum
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0392-is-subsequence](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0844-backspace-string-compare](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String Matching
@@ -230,4 +233,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
