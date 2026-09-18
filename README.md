@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
