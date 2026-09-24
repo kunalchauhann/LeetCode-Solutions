@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0189-rotate-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0263-ugly-number/) | Easy |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
