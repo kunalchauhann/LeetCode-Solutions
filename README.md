@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0058-length-of-last-word](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0205-isomorphic-strings](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0392-is-subsequence](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -272,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0844-backspace-string-compare](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
@@ -285,4 +288,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
