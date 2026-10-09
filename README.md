@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
