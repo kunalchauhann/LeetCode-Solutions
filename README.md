@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0029-divide-two-integers](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0189-rotate-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0136-single-number](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
