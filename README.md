@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0326-power-of-three](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0844-backspace-string-compare](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
+| [0258-add-digits](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Euclidean Algorithm
