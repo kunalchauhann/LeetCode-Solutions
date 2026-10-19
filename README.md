@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0029-divide-two-integers](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0050-powx-n](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
