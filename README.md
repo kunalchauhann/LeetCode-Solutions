@@ -264,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Monotonic Stack
