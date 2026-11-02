@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0326-power-of-three](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0507-perfect-number](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
