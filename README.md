@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1051-height-checker](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1051-height-checker](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -387,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [1051-height-checker](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -423,4 +426,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
+| [1051-height-checker](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->
