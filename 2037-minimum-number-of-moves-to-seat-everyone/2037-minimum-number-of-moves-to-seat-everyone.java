@@ -5,19 +5,7 @@ class Solution {
         Arrays.sort(seats);
         Arrays.sort(students);
         for(int i=0;i<n;i++){
-            int sm1=seats[i];
-            int sm2=students[i];
-            while(sm1!=sm2){
-                if(sm1<sm2){
-                    sm2--;
-                    count++;
-                }else if(sm1>sm2){
-                    sm2++;
-                    count++;
-                }else{
-                    break;
-                }
-            }
+            count+=Math.abs(seats[i]-students[i]);
         }
         return count;
     }
