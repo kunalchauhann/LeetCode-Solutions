@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-max-number-of-k-sum-pairs](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -308,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Primality Test
