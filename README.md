@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1051-height-checker](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
+| [1122-relative-sort-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [1122-relative-sort-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
+| [1122-relative-sort-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
@@ -391,11 +394,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [1122-relative-sort-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [1051-height-checker](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
+| [1122-relative-sort-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -433,5 +438,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1051-height-checker](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1051-height-checker/) | Easy |
+| [1122-relative-sort-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 <!---LeetCode Topics End-->
