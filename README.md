@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0771-jewels-and-stones](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1122-relative-sort-array](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0771-jewels-and-stones](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0844-backspace-string-compare](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1544-make-the-string-great](https://github.com/kunalchauhann/LeetCode-Solutions/tree/main/1544-make-the-string-great/) | Easy |
